@@ -6,3 +6,13 @@
 - 영어사전: 가지
 - git: lightweight moveable pointer
 - 실무에서: 새로운 작업을 시작할 때 만든다.
+
+### 명령어
+1. 브랜치 생성: `git branch 브랜치명`
+2. 생성되어 있는 브랜치 보기
+    - `git branch` 혹은 `git branch -r`
+3. 다른 브랜치로 전환하기
+    - `git checkout 브랜치명`
+    - `git switch 브랜치명`
+4. 브랜치 만들고, 전환까지 동시에 하기
+    - `git checkout -b 브랜치명`
