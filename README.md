@@ -51,3 +51,5 @@
 5. 원격 저장소에서 Pull Request(Merge Request)를 생성한다.
 6. 코드 리뷰를 받는다.
 7. PR(Pull Request)를 마무리한다(merge).
+
+## rebase
